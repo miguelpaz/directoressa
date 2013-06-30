@@ -14,7 +14,7 @@ empresas en Chile que transan en las bolsa de valores, junto a sus
 
 Directores SA además permite hacer preguntas de datos complejos de manera fácil, usando el modelo de datos de 
 CivOmega.com. La idea es poder generar preguntas frecuentes del tipo ¿Quiénes participan en el Directorio de Empresa X? 
-o ¿En qué directorios de Empresas se sienta Y perdona? 
+o ¿En qué directorios de Empresas X se sienta Y persona? 
 
 
 Fuente de datos y tecnología usada
