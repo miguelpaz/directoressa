@@ -24,9 +24,7 @@ Directores SA extrae y utiliza los datos del sitio web oficial de la Superintend
 del Gobierno de Chile que regula el sector bursátil. 
 
 
-Python 2.72
-Scrapy
-X path
+Tecnología usada: Python 2.72, Scrapy, X path, CivOmega (ver https://github.com/CivOmega/civomega)
 
 Créditos
 =======================
